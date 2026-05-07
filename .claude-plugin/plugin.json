@@ -1,0 +1,9 @@
+{
+  "name": "tavily-research",
+  "version": "0.1.0",
+  "description": "Adaptive web research via Tavily MCP. Provides /research skill with quick/medium/deep/compare/news modes, backed by tavily-researcher subagent.",
+  "author": "Ruben Davoli (BeaverMind)",
+  "requires": {
+    "mcp_servers": ["tavily-remote-mcp"]
+  }
+}
